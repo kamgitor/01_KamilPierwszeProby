@@ -1,0 +1,12 @@
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Kamil Browser\bin\Debug\Kamil Browser.exe
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Kamil Browser\bin\Debug\Kamil Browser.pdb
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Kamil Browser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Kamil Browser\obj\Debug\Kamil_Browser.Form1.resources
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Kamil Browser\obj\Debug\Kamil_Browser.Properties.Resources.resources
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Kamil Browser\obj\Debug\Kamil Browser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Kamil Browser\obj\Debug\Kamil Browser.exe
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Kamil Browser\obj\Debug\Kamil Browser.pdb
+K:\Projekty\KamilBrowser\Kamil Browser\Kamil Browser\obj\Debug\Kamil Browser.exe
+K:\Projekty\KamilBrowser\Kamil Browser\Kamil Browser\obj\Debug\Kamil Browser.pdb
+k:\Projekty\C# Apps\Kamil Browser\Kamil Browser\obj\Debug\Kamil Browser.exe
+k:\Projekty\C# Apps\Kamil Browser\Kamil Browser\obj\Debug\Kamil Browser.pdb
