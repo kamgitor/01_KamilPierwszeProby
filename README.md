@@ -2,4 +2,4 @@
 
 First tests in C#
 
-- Odczyt pliku z dysku. App in Windows Form
+- Odczyt pliku z dysku
